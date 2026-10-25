@@ -60,11 +60,13 @@
 
 **Revisions made to the system based on feedback**
 > Describe at least one revisions you made based on the feedback you received and TEST it again.
-**Revision and reason**:
 
-**Result after testing the revision:**
+**Revision and reason**: TODO
+
+**Result after testing the revision:** TODO
 
 ## 5. Video Demonstration
-> Replace the placeholder below with a link to your video. Demonstrate the complete repeating sequence and explain what each signal communicates. Make sure > your instructor can access the video.
+> Replace the placeholder below with a link to your video. Demonstrate the complete repeating sequence and explain what each signal communicates. Make sure 
+> your instructor can access the video.
 
 [Video demonstration](https://youtube.com/)
