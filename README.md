@@ -18,7 +18,8 @@
 > Use the launch activity's approach: interpret a pattern, identify its states, and explain its meaning. Plan at least three meaningful message states. A 
 > message may use several rows, such as a blinking pattern.
 
-> Record a new row whenever any LED changes. Use ON/OFF and durations in milliseconds (1,000 ms = 1 second). Add or remove rows as needed. The last row > returns to the first automatically.
+> Record a new row whenever any LED changes. Use ON/OFF and durations in milliseconds (1,000 ms = 1 second). Add or remove rows as needed. The last row 
+> returns to the first automatically.
 
 | Step | State/message name | LED Color | LED Color | LED Color | Duration (ms) | Meaning to the user |
 | --- | --- | --- | --- | --- | --- | --- |
